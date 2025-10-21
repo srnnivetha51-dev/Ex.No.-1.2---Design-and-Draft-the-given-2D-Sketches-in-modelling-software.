@@ -39,4 +39,5 @@
  
  
  ## RESULT
- Thus the given sketch is drawn and drafted using fusion 360 tool.
+ ![1 2_page-0001 (1)](https://github.com/user-attachments/assets/4cf4a463-2951-4c80-b831-b169e0f8e6f1)
+thus the given sketch is drawn and drafted using fusion 360 tool.
